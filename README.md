@@ -5,3 +5,5 @@ This repository includes `zero-trust` security mechanisms in NPM recommended by 
 1. Hit the green **"Use this template"** button on GitHub.
 2. Clone the new derivative project to your PC.
 3. Run `pnpm install` to respect security rules.
+
+### Waiting for new versions in the future.
