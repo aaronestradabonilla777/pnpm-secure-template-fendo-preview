@@ -8,3 +8,7 @@
   "keywords": ["template", "secure", "pnpm"],
   "author": "Tu Nombre"
 }
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
+  },
