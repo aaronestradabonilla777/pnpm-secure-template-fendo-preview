@@ -1,0 +1,10 @@
+{
+  "name": "wps-secure-template",
+  "version": "1.0.0",
+  "description": "Plantilla base con protección de dependencias estricta",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "keywords": ["template", "secure", "pnpm"],
+  "author": "Tu Nombre"
+}
